@@ -1,0 +1,5 @@
+1. IBM DB2 Connect 
+2. Microsoft .NET Framework Developer Pack – v4.8
+3. .NET Runtime + SDK – IISExpress 10 – v10.0.0
+7. Microsoft Visual Studio 2017 Express Desktop
+8. Microsoft Visual Studio Code
